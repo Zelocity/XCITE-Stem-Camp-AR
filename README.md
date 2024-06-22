@@ -1,1 +1,1 @@
-# This repo was made for the XCITE Stem Summer camp that happened 6/17/24 - 6/22/24. High School students used this project to learn how to use Unity and Github. They were assigned to import three objects and add them inside the beaker. 
+This repo was made for the XCITE Stem Summer camp that happened 6/17/24 - 6/22/24. High School students used this project to learn how to use Unity and Github. They were assigned to import three objects and add them inside the beaker. 
